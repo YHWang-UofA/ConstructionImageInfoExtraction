@@ -11,6 +11,19 @@ The images used in this project could be obtained at: www.acidb.ca
 
 ## Relating Projects
 
+This project cannot be available without the following projects:
+
+For model implementation:
+ImagaCaptioning
+bottom-up-features
+detectron2
+huggingface-transformers
+
+For evaluation:
+scikit-learn
+pycocoevalcap
+spacy
+pandas
 
 
 ## Citing this work
